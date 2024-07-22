@@ -28,7 +28,7 @@ This section provides step-by-step instructions on how to build the vacuum end-e
 
 ### Shopping List
 - Vaccum generator (e.g. [Festo VN-07-M-I3-PQ2-VQ2-A](https://www.festo.com/gb/en/a/532634/?tab=TECHNICAL_DATA&jumpToAnchor=true))
-- Suction cups (e.g. [Festo ESS-20-CN](https://www.festo.com/gr/en/a/189400/))
+- Suction cups (e.g. [Festo ESS-20-CN or -CS](https://www.festo.com/gr/en/a/189400/))
 - Plastic tubing (e.g. [Festo PUN-H-4X0,75-BL](https://www.festo.com/de/en/a/197383/))
 - Push-in fitting (e.g. [Festo QSM-M3-4-I](https://www.festo.com/de/en/a/153314/)) 
 - epoxy two-component glue (e.g. [Pattex Kraft-Mix](https://www.amazon.de/-/en/Kraft-Mix-Extremely-Strength-Modelling-Transparent/dp/B004V4B6PE/ref=sr_1_8?crid=2JDAH80IJE4OS&dib=eyJ2IjoiMSJ9.qoWN3YqThmnkQgwYFZ5gHye6gYLTG1WlmdHD1YBQaUhLvQIqbSUQ7YGG9QsH07bisQvT_ERvGcOkV71jKfn1h6YuZcL1xcyHytIGAZ4142u3a2ESBhLzqY6ZQGow21y_0SkmKTtW4GKywxI4v5A5_eHevxwPubJVAaE8UnoVpVDR_VgnRNgK-zP0mR142so4S8qGFRKaDivvjzbUE9gIiKn8thHlt4fMcFQZClTXUQvZ9BGKPPr9a2SnNdUWPI18GEW8WoxPOTV0WN5BgTxavqKgtJy18-wMLvTcyfsPEQE.5DwZazILMh53XfgVfDc5U176yf84Y91spzEyAdukCUU&dib_tag=se&keywords=epoxy%2Btwo-component%2Bglue&qid=1721656657&sprefix=epoxy%2Btwo-component%2Bglue%2Caps%2C85&sr=8-8&th=1))
