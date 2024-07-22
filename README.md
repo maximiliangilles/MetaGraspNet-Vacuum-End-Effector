@@ -11,10 +11,10 @@ The MetaGraspNet vacuum end-effector is designed to provide efficient and reliab
 </p>
 
 ### Features
-- **High Efficiency**: Provides strong and consistent suction.
+- **High Efficiency**: Provides strong suction.
 - **Versatile**: Capable of handling a wide range of objects.
-- **Cost-Effective**: Print it in your labd and easy assembly.
-- **Modular Design**: Easily mountable on various robotic arms or different suction cups.
+- **Cost-Effective**: Printable in your lab and easy to assemble.
+- **Modular Design**: Easily mountable on various robotic arms and compatible with different suction cups.
 
 ## Table of Contents
 1. [Overview](#overview)
