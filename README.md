@@ -40,8 +40,8 @@ Products from other companies may also be suitable.
     - Print 3D part in ```./files/3d-parts```
     - Ensure part is clean and the air tube is free of filament.
 
-2. **Clue the festo push-in fitting to the 3D-part**:
-    - Connect the suction cup to the 3d part using a thread cutter, and optionally seal with two-component glue (not needed usually)
+2. **Glue the festo push-in fitting to the 3D-part**:
+    - Connect the suction cup to the 3d part using a thread cutter, and optionally seal with two-component glue (not needed usually).
     - Attach the push-in fitting to the 3d part using a thread cutter and seal everything with epoxy two-component glue. Let it dry over night.
 
 <p align="center">
