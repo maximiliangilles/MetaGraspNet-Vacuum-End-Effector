@@ -1,20 +1,12 @@
 # MetaGraspNet Vacuum-End-Effector
 
-## News [dd/mm/yyyy]
-- [22/07/2024] **Initial Version**: First version released online. Additional details regarding control and ROS integration will be included in future updates.
-
 ## Overview
-The MetaGraspNet vacuum end-effector is designed to provide efficient and reliable object handling capabilities for robotic arms. This project aims to provide a comprehensive guide on building and assembling a low-cost vacuum end-effector for use in research applications.
+his project is a simple guide on how to build and put together a low-cost vacuum end-effector, perfect for research use. We hope this guide helps fellow researchers and anyone interested in vacuum-based robotic grasping.
 
 <p align="center">
 <img src="media/IMG_7238_cutout_whitebg_all.png" width="70%">
 </p>
 
-### Features
-- **High Efficiency**: Provides strong suction.
-- **Versatile**: Capable of handling a wide range of objects.
-- **Cost-Effective**: Printable in your lab and easy to assemble.
-- **Modular Design**: Easily mountable on various robotic arms and compatible with different suction cups.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -38,11 +30,11 @@ Products from other companies may also be suitable.
 ### Step-by-Step Instructions
 1. **Print all parts**:
     - Print 3D part in ```./files/3d-parts```
-    - Ensure part is clean and the air tube is free of filament.
+    - Ensure 3D-printed part is clean and the air tube is free of filament.
 
 2. **Glue the push-in fitting and the 3D-part**:
-    - Connect the suction cup to the 3d part using a thread cutter, and optionally seal with two-component glue (not needed usually).
-    - Attach the push-in fitting to the 3d part using a thread cutter and seal everything with epoxy two-component glue. Let it dry over night.
+    - Connect the suction cup to the 3d-printed part using a thread cutter, and optionally seal with two-component glue (not needed usually).
+    - Attach the push-in fitting to the 3d-printed part using a thread cutter. Important: Seal everything with epoxy two-component glue. Let it dry over night.
 
 <p align="center">
 <img src="media/IMG_18521.jpg" width="60%">
@@ -72,4 +64,4 @@ Please consider citing ([Link to Paper](https://ieeexplore.ieee.org/document/103
 ```
 
 ## License
-The dataset is under **CC BY-NC-SA 3.0 license**. You may only use the database for academic purposes. For more details [see](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+The project is under **CC BY-NC-SA 3.0 license**.
