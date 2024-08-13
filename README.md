@@ -1,7 +1,7 @@
 # MetaGraspNet Vacuum-End-Effector
 
 ## Overview
-his project is a simple guide on how to build and put together a low-cost vacuum end-effector, perfect for research use. We hope this guide helps fellow researchers and anyone interested in vacuum-based robotic grasping.
+This project is a simple guide on how to build and put together a low-cost vacuum end-effector, perfect for research use. We hope this guide helps fellow researchers and anyone interested in vacuum-based robotic grasping.
 
 <p align="center">
 <img src="media/IMG_7238_cutout_whitebg_all.png" width="70%">
